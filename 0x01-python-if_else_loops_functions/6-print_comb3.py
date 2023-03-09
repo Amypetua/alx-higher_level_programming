@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-for a in range(0, 8):
+for a in range(0, 10):
     for b in range(a + 1, 10):
-        print("{:d}{:d}".format(a, b), end=", ")
-                print("{:d}{:d}".format(a + a, b))
+        if a == 8 and y == 9:
+            print("89")
+        else:
+        print("{:d}{:d}, ".format(a, b), end=", ")
