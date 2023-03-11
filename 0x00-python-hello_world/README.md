@@ -1,1 +1,2 @@
-This directory contains solutions to  projects on python. Python is a high-level,interpreted programming language that is widely used for variety or purposes. It was created by Guido Van Rossum in 20th February1991. Python emphasizes codes readability and simplicity, which makes it an excellent choice for beginners and experienced programmers alike.
+# Welcome to python. 
+This directory contains solutions to the first Alx project on python. 
