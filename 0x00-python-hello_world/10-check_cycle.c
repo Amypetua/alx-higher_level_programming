@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib>
-#include "list.h"
+#include "lists.h"
 
 /**
  * check_cycle - checks if a linked list contains a cycle
