@@ -6,9 +6,9 @@ def safe_print_list(my_list=[], x=0):
         while True:
             if count == x:
                 break
-            print(my_list[count], end="")
+            print(f"{my_list[count]}", end="")
             count += 1
-    except:
+    except IndexError:
         pass
     print()
-    return count
+    return (count)
