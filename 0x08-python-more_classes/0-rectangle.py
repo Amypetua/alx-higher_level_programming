@@ -1,5 +1,6 @@
 #!/usr/bin/python3
+"""Write an empty class that defines a Rectangle"""
+
+
 class Rectangle:
-    def __init__ (self, length, width):
-        self.length = length
-        self.width = width
+    pass
