@@ -5,6 +5,6 @@ if (!firstArgument || isNaN(firstArgument)) {
 } else {
   firstArgument = parseInt(firstArgument);
   for (i = 0; i < firstArgument; i++) {
-  console.log('C is fun');
+    console.log('C is fun');
   }
 }
