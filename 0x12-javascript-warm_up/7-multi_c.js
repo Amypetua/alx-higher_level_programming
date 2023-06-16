@@ -7,4 +7,4 @@ if (!firstArgument || isNaN(firstArgument)) {
   for (let i = 0; i < firstArgument; i++) {
     console.log('C is fun');
   }
-}i
+}
