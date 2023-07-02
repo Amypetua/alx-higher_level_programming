@@ -1,8 +1,10 @@
 #!/usr/bin//python3
 """ Python modules """
+
 import sys
-import urllib.request
 import urllib.parse
+import urllib.request
+
 """ A Python script that takes in a URL, sends a request to the URL """
 
 
