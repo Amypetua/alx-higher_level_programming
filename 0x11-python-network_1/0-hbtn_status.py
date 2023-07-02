@@ -1,15 +1,11 @@
 #!/usr/bin/python3
-"""
-Python module for fetching URL
-"""
+""" Python module for fetching URL """
 import urllib.request
 
-"""
-A Python script that fetches https://alx-intranet.hbtn.io/status
-"""
+""" A Python script that fetches https://alx-intranet.hbtn.io/status """
 
 if __name__ == "__main__":
-    request = urllib.request.Request(https://alx-intranet.hbtn.io/status)
+    request = urllib.request.Request("https://alx-intranet.hbtn.io/status")
     with urllib.request.urlopen(request) as response:
         body = response.read()
         print("Body response:")
